@@ -15,4 +15,4 @@ $ pip python3 practice.py
 - print 'Hello, Python!'
 
 ## References
-1. [EDGE] (https://github.com/https://github.com/sehyuk02/four-arithmetic-operations)
+1. [EDGE] (https://github.com/sehyuk02/four-arithmetic-operations)
